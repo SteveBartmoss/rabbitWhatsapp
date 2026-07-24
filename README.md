@@ -4,7 +4,7 @@ Código para enviar el guion completo de peliculas a los estafadores insoportabl
 
 ## Uso
 
-Abre [shrekSendScript.js](https://github.com/raggiodev/SendScriptWhatsApp-spanish/blob/main/shrekSendScript.js)
+Abre [shrekSendScript.js](https://github.com/raggiodev/SendScriptWhatsApp-spanish/blob/main/shrekSendScript.js) o alguno de los otros archivos
 
 Copia todo el contenido (haz clic en "Raw" -> "CTRL + A" -> "CTRL + C").
 
@@ -17,7 +17,7 @@ En [WhatsApp Web](https://web.whatsapp.com), abre la consola del navegador.
 
 Pega el código en la consola y presiona "Enter".
 
-Listo, disfruta cayéndote de culo cagándote de risa!
+Listo, disfruta viendo como se lanza spam hacia el estafador!
 
 ---
 
